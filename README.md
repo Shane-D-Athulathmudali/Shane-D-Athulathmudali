@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shane Athulathmudali
 
-<!--
-**Shane-D-Athulathmudali/Shane-D-Athulathmudali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Azure cloud support and administration** · Dallas–Fort Worth, TX
 
-Here are some ideas to get you started:
+I work Tier 1 help desk and I'm building hands-on Azure skills toward the **AZ-104 Azure Administrator** certification. Every project here was deployed in my own Azure subscription, documented with evidence, and kept at $0 with budgets and same-day cleanup.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- CompTIA Security+ (2025)
+- Google Professional Cybersecurity (2026)
+- Microsoft Certified: Azure Fundamentals, AZ-900 (2026)
+- In progress: Microsoft Certified: Azure Administrator Associate, AZ-104
+
+### Projects
+| Project | What it shows |
+|---|---|
+| Coming soon | Governance as code, secure networking, monitoring and alerting, CI/CD hosting |
+
+### Skills
+Azure portal · Azure CLI · Azure PowerShell · Bicep · Microsoft Entra ID · Azure RBAC · Azure Policy · VNets and NSGs · Azure Monitor and KQL · Git and GitHub
+
+### Contact
+LinkedIn: www.linkedin.com/in/shane-athulathmudali-62a35a35a
